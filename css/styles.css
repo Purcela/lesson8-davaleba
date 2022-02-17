@@ -1,37 +1,113 @@
-
-
+                                         /*section 1*/
 
 .s1 { width: 1920px; 
       height: 1080px;
-      background-image: url(../img/untitled-1.png);
-      display: flex;
-      justify-content: end; }
+      background-image: url(../img/untitled-1.png); }
 
-.s1-p:nth-child(1) { width: 42px;
-                     height: 21px;
-                      }
+.s1-big-box { display: flex;
+              justify-content: end; }
+
 .s1-img { width: 212px;
           height: 146px;
-          margin-left: 235px;
+          margin-right: 444.9px;
           margin-top: 40px; }
 
-.s1-box { width: 428px;
-         height: 109px;
-         background-color: #A80E0E;
-         display: flex;
-         justify-content: start;
-         align-items: center; }
+.s1-box1 { display: flex;
+           justify-content: end; }
 
+.s1-p { margin-top: 43px;
+        font-family: 'Montserrat-Light'; }
 
-.s1-i1:nth-child(1) { width: 33px;
-                      height: 33px;
-                      font-size: 50px;
-                      margin-left: 66px; }
+.s1-p:nth-child(1) { width: 51px;
+                     height: 19px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 54px; }
 
-.s1-i1:nth-child(2) { width: 30px;
-                      height: 33px;
-                      margin-left: 54.5px; } 
+.s1-p:nth-child(2) { width: 48px;
+                     height: 19px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 53px; }
 
-.s1-i1:nth-child(3) { width: 23px;
-                      height: 32px;
-                      margin-left: 65px; }
+.s1-p:nth-child(3) { width: 57px;
+                     height: 21px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 56px; }
+
+.s1-p:nth-child(4) { width: 98px;
+                     height: 21px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 54px; }
+
+.s1-p:nth-child(5) { width: 92px;
+                     height: 19px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 37px; }
+
+.s1-box2 { width: 428px;
+           height: 109px;
+           background-color: #A80E0E;
+           display: flex;
+           justify-content: start;
+           align-items: center; }
+
+.fa-magnifying-glass { width: 33px;
+                       height: 33px;
+                       font-size: 30px;
+                       margin-left: 66px;
+                       color: #FFFFFF; }
+
+.fa-user { width: 30px;
+           height: 33px;
+           font-size: 30px;
+           margin-left: 54.5px;
+           color: #FFFFFF; } 
+
+.fa-bag-shopping { width: 23px;
+                   height: 32px;
+                   font-size: 30px;
+                   margin-left: 65px;
+                   color: #FFFFFF; }
+
+.s1-big-box1 { display: flex;
+               flex-direction: column; }
+
+.s1-p1:nth-child(1) { width: 610px;
+                      height: 97px;
+                      font-family: 'Avengeance Mightiest Avenger Regular';
+                      font-size: 96px;
+                      color: #FFFFFF;
+                      margin-left: 235px;
+                      margin-top: 184.8px; }
+
+.s1-p1:nth-child(2) { width: 375px;
+                      height: 77px;
+                      font-family: 'Montserrat-Bold';
+                      font-size: 30px;
+                      color: #FFFFFF;
+                      margin-left: 291px;
+                      margin-top: 54px; }
+
+.s1-box3 { width: 255px;
+           height: 68px;
+           display: flex;
+           justify-content: space-evenly;
+           align-items: center;
+           border-radius: 90px;
+           background-color: #FFAA00;
+           margin-left: 235px;
+           margin-top: 90px; }
+
+.s1-p2 { width: 168px;
+         height: 27px;
+         color: #A80E0E;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 27px; }
+
+.fa-arrow-right { width: 21.44px;
+                  height: 12px;
+                  color: #A80E0E; }
