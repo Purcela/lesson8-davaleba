@@ -125,19 +125,19 @@
               flex-direction: column;
               align-items: center; }
 
-.s2-p:nth-child(1) { width: 364px;
-                     height: 51px;
-                     color: #A80E0E;
-                     font-family: 'Avengeance Mightiest Avenger Regular';
-                     font-size: 50px;
-                     margin-top: 152px; }
+.s2-h2 { width: 364px;
+         height: 51px;
+         color: #A80E0E;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 50px;
+         margin-top: 152px; }
 
-.s2-p:nth-child(2) { width: 642px;
-                     height: 24px;
-                     color: #382E36;
-                     font-family: 'Montserrat-Light';
-                     font-size: 20px;
-                     margin-top: 45px; }
+.s2-p { width: 642px;
+        height: 24px;
+        color: #382E36;
+        font-family: 'Montserrat-Light';
+        font-size: 20px;
+        margin-top: 45px; }
 
 .s2-big-box1 { height: 236px;
                margin-top: 72px;
@@ -364,10 +364,12 @@
 .s3-box3:hover { overflow: visible; }
 
 
+                                            /*section 4*/
 
 
-
-
+.section-4 { width: 1920px;
+             height: 1813px;
+             background-color: #FFFFFF; }
 
 
 
