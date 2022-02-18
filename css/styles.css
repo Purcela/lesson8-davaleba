@@ -142,7 +142,7 @@ body {padding-bottom: 100px; background-color: black;}                          
 .s2-big-box1 { height: 236px;
                margin-top: 72px;
                display: flex;
-               align-items: center; }        /*  font-family: 'Montserrat-Regular';   */
+               align-items: center; }
 
 .s2-box1,
 .s2-box2,
@@ -319,6 +319,48 @@ body {padding-bottom: 100px; background-color: black;}                          
 
 
 .s3 { width: 1920px;
-      height: 749px;
-      background-color: #FFAA00; }
+      height: 852px; }
+
+.s3-box { width: 1920px;
+          height: 852px;
+          display: flex;
+          align-items: center;
+          justify-content: start;
+          background-color: #FFAA00; }
+
+.s3-box1{ width: 809px;
+          height: 809px;
+          margin-left: 14px;
+          margin-top: 43px; }
+
+.s3-big-box { width: 1054px;
+              height: 852px;
+              margin-left: 43px; }
+
+
+.s3-box2 { width: 518px;
+           height: 112px;
+           margin-top: 367px;
+           font-family: 'Avengeance Mightiest Avenger Regular';
+           font-size: 47px;
+           color: #FFFFFF; }
+
+.s3-p:nth-child(1) { width: 364px;
+                     height: 48px; }
+
+.s3-p:nth-child(2) { width: 518px;
+                     height: 48px;
+                     margin-top: 16px; }
+
+.s3-box3 { width: 449px;
+           height: 102px;
+           margin-top: 65.5px;
+           align-items: flex-start;
+           font-family: 'Montserrat-Regular';
+           font-size: 20px;
+           color: #FFFFFF;
+           overflow: hidden; }
+
+.s3-box3:hover { overflow: visible; }
+
 
