@@ -1,4 +1,4 @@
-                                         /*section 1*/
+body {padding-bottom: 100px; background-color: black;}                                         /*section 1*/
 
 .s1 { width: 1920px; 
       height: 1080px;
@@ -111,3 +111,214 @@
 .fa-arrow-right { width: 21.44px;
                   height: 12px;
                   color: #A80E0E; }
+
+
+
+                                                      /*section 2*/
+
+
+.s2 { width: 1920px;
+      height: 749px;
+      background-color: #FFFFFF; }
+
+.s2-big-box { display: flex;
+              flex-direction: column;
+              align-items: center; }
+
+.s2-p:nth-child(1) { width: 364px;
+                     height: 51px;
+                     color: #A80E0E;
+                     font-family: 'Avengeance Mightiest Avenger Regular';
+                     font-size: 50px;
+                     margin-top: 152px; }
+
+.s2-p:nth-child(2) { width: 642px;
+                     height: 24px;
+                     color: #382E36;
+                     font-family: 'Montserrat-Light';
+                     font-size: 20px;
+                     margin-top: 45px; }
+
+.s2-big-box1 { height: 236px;
+               margin-top: 72px;
+               display: flex;
+               align-items: center; }        /*  font-family: 'Montserrat-Regular';   */
+
+.s2-box1,
+.s2-box2,
+.s2-box4,
+.s2-box5,
+.s2-box6 { display: flex;
+           flex-direction: column;
+           align-items: center; }
+
+.s2-box1 { width: 100.06px;
+           margin-left: 291px; }
+          
+
+.s2-box1 img { width: 100.06px;
+               height: 91.92px; }
+
+.s2-box1 p { width: 80px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 39.1px; }
+
+.s2-box2 { width: 94.43px;
+           margin-left: 148.9px; } 
+
+.s2-box2 img { width: 94.43px;
+               height: 116.35px; }
+
+.s2-box2 p { width: 54px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 27.6px; }
+
+.s2-box3 { width: 248px;
+           height: 236px;
+           margin-left: 77.6px;
+           display: flex;
+           border-radius: 5px;
+           flex-direction: column;
+           align-items: center;
+           justify-content: center;
+           box-shadow: 0px 15px 15px #000000; }
+
+.s2-box3 img { width: 75.13px;
+               height: 97.89px; }
+
+.s2-box3 p { width: 106px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 36.1px; }
+
+.s2-box4 { width: 69.56px;
+           margin-left: 89px; } 
+
+.s2-box4 img { width: 69.56px;
+               height: 115.93px; }
+
+.s2-box4 p { width: 90px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 27.1px; }
+ 
+.s2-box5 { width: 91.77px;
+           margin-left: 170.2px; } 
+
+ /*--------------------------------------- sendvichis dedac  -------------------------------------------------*/ 
+
+.s2-box5-rel { width: 91.77px;
+               height: 91.77px;
+               position: relative; }
+
+.s2-box5 img:nth-child(1) { width: 91.77px;
+                            height: 91.77px;
+                            position: absolute;
+                            top: 50%;
+                            left: 50%;
+                            transform: translate(-50%,-50%);
+                            z-index: 2; }
+
+.s2-box5 img:nth-child(2) { width: 88.25px;
+                            height: 88.25px;
+                            position: absolute;top: 50%;
+                            left: 50%;
+                            transform: translate(-50%,-50%);
+                            z-index: 1; }
+
+.s2-box5 img:nth-child(3) { width: 72.83px;
+                            height: 72.83px;
+                            position: absolute;
+                            bottom: 11.9px;
+                            left: 11.9px;
+                            z-index: 3; }
+
+.s2-box5 img:nth-child(4) { width: 51.07px;
+                            height: 51.07px;
+                            position: absolute;
+                            bottom: 22.2px;
+                            left: 23.9px;
+                            z-index: 4; }
+
+.s2-box5 img:nth-child(5) { width: 19.62px;
+                            height: 19.62px;
+                            position: absolute;
+                            bottom: 38.4px;
+                            left: 38px;
+                            z-index: 5; }
+
+.s2-box5 img:nth-child(6) { width: 10.59px;
+                            height: 3.53px;
+                            position: absolute;
+                            bottom: 65.3px;
+                            left: 7.1px;
+                            z-index: 6; }
+
+.s2-box5 img:nth-child(7) { width: 10.59px;
+                            height: 3px;
+                            position: absolute;
+                            bottom: 65.3px;
+                            left: 7.1px;
+                            z-index: 7; }
+
+.s2-box5 img:nth-child(7) { width: 22.94px;
+                            height: 3.53px;
+                            position: absolute;
+                            bottom: 47.7px;
+                            left: 7.1px;
+                            z-index: 7; }
+
+.s2-box5 img:nth-child(8) { width: 40.59px;
+                            height: 3.53px;
+                            position: absolute;
+                            bottom: 30px;
+                            left: 7.1px;
+                            z-index: 8; }
+
+.s2-box5 img:nth-child(9) { width: 3.53px;
+                            height: 3.53px;
+                            position: absolute;
+                            bottom: 7.1px;
+                            left: 17.6px;
+                            z-index: 9; }
+
+/*----------------------------------------------------------------------------------------------------*/
+
+.s2-box5 p { width: 106px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 41px; }
+
+.s2-box6 { width: 108.68px;
+           margin-left: 148.2px; } 
+
+.s2-box6 img { width: 108.68px;
+               height: 110.2px; }
+
+.s2-box6 p { width: 102px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 30px; }
+
+
+                                               /*section 3*/
+
+
+.s3 { width: 1920px;
+      height: 749px;
+      background-color: #FFAA00; }
+

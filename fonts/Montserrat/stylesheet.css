@@ -232,3 +232,15 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Montserrat-UltraLight';
+    src: url('Montserrat-UltraLight.eot');
+    src: url('Montserrat-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-UltraLight.woff2') format('woff2'),
+        url('Montserrat-UltraLight.woff') format('woff'),
+        url('Montserrat-UltraLight.ttf') format('truetype'),
+        url('Montserrat-UltraLight.svg#Montserrat-UltraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
