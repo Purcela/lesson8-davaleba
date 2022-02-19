@@ -474,14 +474,74 @@
               font-size: 18px;
               color: #FFFFFF; }
 
+                                                             /*section 5*/
 
 
+.section-5 { width: 1920px;
+             height: 852px;
+             display: flex;
+             background-image: url(../img/s5-img.png); }
 
+.s5-big-box { width: 449px;
+              height: 307px;
+              margin-top: 273px;
+              margin-left: 235px;
+              display: flex;
+              flex-direction: column;
+               }
 
+.s5-h3 { width: 425PX;
+         height: 61PX;
+         color: #FFFFFF;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 60px; }
 
+.s5-p:nth-child(2) { width: 234px;
+                     height: 30px;
+                     margin-top: 27px;
+                     font-family: 'Montserrat-UltraLight';
+                     font-size: 25px;
+                     color: #FFFFFF; }
 
+.s5-p:nth-child(3) { width: 449px;
+                     height: 40px;
+                     margin-top: 10.5px;
+                     font-family: 'Montserrat-UltraLight';
+                     font-size: 22px;
+                     color: #FFFFFF; }
 
+.s5-box { width: 449px;
+          height: 85px;
+          margin-top: 27.5px;
+          display: flex; }
 
+.s5-mini-box { width: 85px;
+               height: 111px;
+               margin-right: 33px;
+               display: flex;
+               flex-direction: column;
+               align-items: center; }
+
+.s5-mini-box:nth-child(4) { margin-right: auto; }
+
+.s5-mini-box1 { width: 85px;
+                height: 85px;
+                justify-content: center;
+                align-items: center;
+                background-color: #FFAA00;}
+
+.s5-mini-box1 p { width: 63px;
+                  height: 48p;
+                  font-family: 'Avengeance Mightiest Avenger Regular';
+                  font-size: 47px;
+                  color: #FFFFFF; }
+
+.s5-mini-box H4 { width: 44px;
+                  height: 17px;
+                  margin-top: 9px;
+                  font-family: 'Avengeance Mightiest Avenger Regular';
+                  font-size: 17px;
+                  color: #FFFFFF; }
 
 
 
