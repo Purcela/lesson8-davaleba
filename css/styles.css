@@ -524,24 +524,46 @@
 
 .s5-mini-box:nth-child(4) { margin-right: auto; }
 
-.s5-mini-box1 { width: 85px;
+.s5-mini-box1,
+.s5-mini-box2,
+.s5-mini-box3,
+.s5-mini-box4 { width: 85px;
                 height: 85px;
+                display: flex;
                 justify-content: center;
                 align-items: center;
                 background-color: #FFAA00;}
 
-.s5-mini-box1 p { width: 63px;
+.s5-mini-box1 p,
+.s5-mini-box2 p,
+.s5-mini-box3 p,
+.s5-mini-box4 p { width: 63px;
                   height: 48p;
                   font-family: 'Avengeance Mightiest Avenger Regular';
                   font-size: 47px;
                   color: #FFFFFF; }
 
-.s5-mini-box H4 { width: 44px;
-                  height: 17px;
-                  margin-top: 9px;
-                  font-family: 'Avengeance Mightiest Avenger Regular';
-                  font-size: 17px;
-                  color: #FFFFFF; }
+.s5-mini-box2 p { width: 51px; }
+
+.s5-mini-box3 p { width: 62px; }
+
+.s5-mini-box4 p { width: 54px; }
+
+.s5-mini-box h4 { width: 44px;
+                        height: 17px;
+                        margin-top: 9px;
+                        font-family: 'Avengeance Mightiest Avenger Regular';
+                        font-size: 17px;
+                        color: #FFFFFF; }
+  
+.s5-mini-box .s5-h4-2 { width: 60px; }
+
+.s5-mini-box .s5-h4-3 { width: 34px; }
+
+.s5-mini-box .s5-h4-4 { width: 32px; }
+
+
+
 
 
 
