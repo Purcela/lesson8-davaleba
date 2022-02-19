@@ -1,5 +1,5 @@
                                                              
-                                                                /*section 1*/
+  /*----------------------------------------------   section 1   --------------------------------------------------*/
 
 .section-1 { width: 1920px; 
              height: 1080px;
@@ -115,7 +115,7 @@
                   height: 12px;
                   color: #A80E0E; }
 
-                                                                     /*section 2*/
+  /*----------------------------------------------   section 2   --------------------------------------------------*/
 
 
 .section-2 { width: 1920px;
@@ -315,7 +315,7 @@
              color: #000000;
              margin-top: 30px; }
 
-                                                              /*section 3*/
+  /*----------------------------------------------   section 3   --------------------------------------------------*/
 
 .section-3 { width: 1920px;
              height: 852px; }
@@ -365,7 +365,7 @@
 .s3-box3:hover { overflow: visible; }
 
 
-                                                            /*section 4*/
+  /*----------------------------------------------   section 4   --------------------------------------------------*/
 
 
 .section-4 { width: 1920px;
@@ -481,7 +481,7 @@
  .s4-click:hover { box-shadow: 0px 10px 10px #000000; }
 
 
-                                                                   /*section 5*/
+  /*----------------------------------------------   section 5   --------------------------------------------------*/
 
 
 .section-5 { width: 1920px;
@@ -494,8 +494,7 @@
               margin-top: 273px;
               margin-left: 235px;
               display: flex;
-              flex-direction: column;
-               }
+              flex-direction: column; }
 
 .s5-h3 { width: 425PX;
          height: 61PX;
@@ -570,6 +569,59 @@
 .s5-mini-box .s5-h4-4 { width: 32px; }
 
 
+  /*----------------------------------------------   section 6   --------------------------------------------------*/ 
+
+.section-6 { width: 1920px;
+             height: 1313px;
+             display: flex;
+             flex-direction: column;
+             align-items: center;
+             background-color: #FFFFFF; }
+
+.s6-h4 { width: 436px;
+         height: 41px;
+         margin-top: 155px;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 40px;
+         color: #A80E0E; }
+
+.s6-p { width: 642px;
+        height: 24px;
+        margin-top: 64px;
+        font-family: 'Montserrat-Light';
+        font-size: 20px;
+        color: #382E36; }
+
+.s6-big-box { width: 1450px;
+              height: 636px;
+              margin-top: 126px;
+              display: flex;
+              justify-content: space-between;
+              /*align-items: center;*/ }
+
+.s6-big-box img { width: 670px;
+                  height: 636px;
+                  border-radius: 10px; }
+
+.s6-box { width: 710px;
+          height: 297px;
+          margin-top: 103px;
+          display: flex;
+          flex-direction: column; }
+
+.s6-big-box i { width: 99.6px;
+                height: 84.08px;
+                color: #A80E0E;
+                font-size: 84px; }
+
+.s6-big-box p { width: 710px;
+                height: 158px;
+                margin-top: 54.9px;
+                line-height: 40px;
+                font-family: 'Montserrat-UltraLight';
+                font-size: 20px;
+                color: #000000;
+                 }
 
 
 
