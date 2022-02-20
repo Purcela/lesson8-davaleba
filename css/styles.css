@@ -865,7 +865,7 @@
               font-size: 16px;
               color: #686868;
               letter-spacing: 1px;
-              line-height: 1.5; }
+              line-height: 30px; }
 
   /*----------------------------------------------   section 8   --------------------------------------------------*/ 
 
@@ -922,7 +922,7 @@
              font-family: 'Montserrat-UltraLight';
              font-size: 16px;
              color: #FFFFFF;
-             line-height: 1.7; }
+             line-height: 30px; }
 
 .s8-location { width: 264px;
                height: 74.24px;
@@ -940,7 +940,7 @@
                  font-family: 'Montserrat-UltraLight';
                  font-size: 16px;
                  color: #FFFFFF;
-                 line-height: 1.7;  }
+                 line-height: 30px;  }
 
 .s8-soc { width: 358px;
           height: 54px;
@@ -990,7 +990,7 @@
 
 .fa-instagram:hover { color: #B006F8;
                       font-size: 30px; }
-                      
+
 .s8-big-box2 { width: 960px;
                height: 637px;
                background-image: url(../img/s8-map.png);
@@ -1018,6 +1018,205 @@
                            margin-left: 496px;
                            z-index: 3; }
 
-              
+  /*----------------------------------------------   section 9   --------------------------------------------------*/ 
+
+.section-9 { width: 1920px;
+             height: 567px;
+             display: flex;
+             flex-direction: column;
+             align-items: center;
+             justify-content: center;
+             background-color: #FFFFFF; }
+
+.s9-big-box { width: 1450px;
+              height: 301.7px;
+              display: flex; }
+
+.s9-box1 { width: 562px;
+           height: 302px;
+           display: flex;
+           flex-direction: column;
+           justify-content: flex-start; }
+
+.s9-box1-img { width: 149.55px;
+               height: 103.1px; }
+
+.s9-box1 p { width: 562px;
+             height: 102px;
+             margin-top: 32.6px;
+             font-family: 'Montserrat-UltraLight';
+             font-size: 16px;
+             color: #000000;
+             letter-spacing: 0.7px;
+             line-height: 32px;
+             overflow: hidden; }
+
+.s9-box1 p:hover { overflow: visible; }
+
+.s9-cards { width: 351px;
+            height: 53px;
+            margin-top: 11px;
+            display: flex;
+            align-items: center; }
+
+.s9-card1 { width: 49px;
+            height: 49px; }
+
+.s9-card2 { width: 49px;
+            height: 32px;
+            margin-left: 11px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative; }
+
+.s9-card21 { width: 49px;
+             height: 32px;
+             position: absolute;
+             z-index: 1; }
+
+.s9-card22 { width: 38px;
+             height: 38px;
+             margin-top: -2px;
+             margin-bottom: -4px;
+             margin-left: 1px;
+             position: absolute;
+             z-index: 2; }
+
+.s9-card3 { width: 52px;
+            height: 52px;
+            margin-left: 9px; }
+
+.s9-card4 { width: 50px;
+            height: 43px;
+            margin-top: 10px;
+            margin-left: 9px; }
+
+.s9-card5 { width: 50px;
+            height: 33px;
+            margin-left: 11px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative; }
+
+.s9-card51 { width: 50px;
+             height: 33px;
+             position: absolute;
+             z-index: 1; }
+
+.s9-card52 { width: 37px;
+             height: 17px;
+             margin-left: 1px;
+             margin-top: 2px;
+             position: absolute;
+             z-index: 2; }
+
+.s9-card6 { width: 50px;
+            height: 33px;
+            margin-left: 11px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative; }
+
+.s9-card61 { width: 50px;
+             height: 33px;
+             position: absolute;
+             z-index: 1; }
+
+.s9-card62 { width: 35px;
+             height: 14px;
+             margin-left: 1px;
+             margin-top: 1px;
+             position: absolute;
+             z-index: 2; }
+
+.s9-box2 { width: 397px;
+           height: 266px;
+           margin-top: 8.7px;
+           margin-left: 73px;
+           display: flex;
+           flex-direction: column;
+           align-items: flex-start; }
+
+.s9-box2 h3 { width: 137px;
+              height: 20px;
+              font-family: 'Avengeance Mightiest Avenger Regular';
+              font-size: 20px;
+              color: #A80E0E; }
+
+.s9-mini-box { width: 397px;
+               height: 179px;
+               margin-top: 47px;
+               display: flex;
+               justify-content: space-between;
+               font-family: 'Montserrat-UltraLight';
+               font-size: 16px;
+               line-height: 35px;
+               color: #686868; }
+
+.s9-p1 { width: 98px;
+         height: 139px; }
+
+.s9-p2 { width: 174px;
+         height: 179px; }
+
+.s9-box3 { width: 352px;
+              height: 307px;
+              margin-top: 8.7px;
+              margin-left: 66px;
+              display: flex;
+              flex-direction: column;
+              align-items: flex-start; }
+
+.s9-box3 h3 { width: 170px;
+              height: 20px;
+              font-family: 'Avengeance Mightiest Avenger Regular';
+              font-size: 20px;
+              color: #A80E0E; }
+
+.s9-box3 img { width: 100px;
+               height: 93px;
+               border-radius: 5px; }
+
+.s9-img-box { width: 353px;
+              height: 213px;
+              margin-top: 54px;
+              display: flex;
+              flex-direction: column; }
+
+.s9-img-box1 { width: 353px;
+               height: 93px;
+               display: flex;
+               justify-content: space-between; }
+
+.s9-img-box2 { width: 353px;
+               height: 93px;
+               margin-top: 27px;
+               display: flex;
+               justify-content: space-between; }
+
+
+
+
+
+
+
+.s9-line::after { content:'';
+                width: 50px;
+                height: 3px;
+                float: right;
+                clear: both;
+                background-color: #FFAA00;
+                margin-top: 17px; }
+
+.s9-p { width: 306px;
+        height: 19px;
+        margin-top: 107px;
+        font-family: 'Montserrat-UltraLight';
+        font-size: 16px;
+        color: #686868; }
 
 body {padding-bottom: 100px; background-color: black;}   
