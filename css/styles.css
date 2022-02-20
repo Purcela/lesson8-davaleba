@@ -867,14 +867,156 @@
               letter-spacing: 1px;
               line-height: 1.5; }
 
+  /*----------------------------------------------   section 8   --------------------------------------------------*/ 
 
+.section-8 { width: 1920px;
+             height: 637px;
+             display: flex; }
 
+.s8-big-box1 { width: 960px;
+               height: 637px;
+               display: flex;
+               background-color: #A80E0E; }
 
+.s8-box { width: 358px;
+          height: 422px;
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          margin-top: 107px;
+          margin-left: 235px; }
 
+.s8-call { width: 118px;
+           height: 41px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           border-radius: 60px;
+           background-color: #FFAA00; }
 
+.s8-call p { width: 53px;
+             height: 19px;
+             font-family: 'Montserrat-UltraLight';
+             font-size: 16px;
+             color: #FFFFFF; }
 
+.s8-box h2 { width: 298px;
+             height: 41px;
+             margin-top: 23px;
+             color: #FFFFFF;
+             font-family: 'Avengeance Mightiest Avenger Regular';
+             font-size: 40px; }
 
+.s8-time { width: 358px;
+           height: 60px;
+           margin-top: 19px;
+           display: flex;
+           align-items: center;
+           justify-content: space-between; }
 
+.s8-time img { width: 60px;
+               height: 60px; }
+
+.s8-time p { width: 273px;
+             height: 49px;
+             font-family: 'Montserrat-UltraLight';
+             font-size: 16px;
+             color: #FFFFFF;
+             line-height: 1.7; }
+
+.s8-location { width: 264px;
+               height: 74.24px;
+               margin-top: 59px;
+               margin-left: 5px;
+               display: flex;
+               align-items: center;
+               justify-content: space-between; }
+
+.s8-location img { width: 52px;
+                   height: 74.24px; }
+
+.s8-location p { width: 185px;
+                 height: 49px;
+                 font-family: 'Montserrat-UltraLight';
+                 font-size: 16px;
+                 color: #FFFFFF;
+                 line-height: 1.7;  }
+
+.s8-soc { width: 358px;
+          height: 54px;
+          margin-top: 50.8px;
+          display: flex;
+          align-items: center;
+          justify-content: flex-start; }
+
+.fa-facebook-f { width: 57px;
+                 height: 54px;
+                 display: flex;
+                 align-items: center;
+                 justify-content: center;
+                 background-color: #FFFFFF;
+                 color: #A80E0E;
+                 font-size: 24px;
+                 border-radius: 5px; }
+
+.fa-facebook-f:hover { color: blue;
+                       background-color: lightskyblue; }
+
+.fa-twitter { width: 57px;
+              height: 54px;
+              display: flex;
+              margin-left: 20px;
+              align-items: center;
+              justify-content: center;
+              background-color: #FFFFFF;
+              color: #A80E0E;
+              font-size: 24px;
+              border-radius: 5px; }
+
+.fa-twitter:hover { color: royalblue;
+                    background-color: lightgray; }
+
+.fa-instagram { width: 57px;
+                height: 54px;
+                display: flex;
+                margin-left: 20px;
+                align-items: center;
+                justify-content: center;
+                position: relative;
+                background-color: #FFFFFF;
+                color: #A80E0E;
+                font-size: 25px;
+                border-radius: 5px; }
+
+.fa-instagram:hover { color: #B006F8;
+                      font-size: 30px; }
+                      
+.s8-big-box2 { width: 960px;
+               height: 637px;
+               background-image: url(../img/s8-map.png);
+               display: flex;
+               position: relative; }
+
+.s8-map-img:nth-child(1) { width: 61.72px;
+                           height: 88.97px;
+                           position: absolute;
+                           margin-top: 257px;
+                           margin-left: 481px;
+                           z-index: 1; }
+
+.s8-map-img:nth-child(2) { width: 41px;
+                           height: 41px;
+                           position: absolute;
+                           margin-top: 268px;
+                           margin-left: 491px;
+                           z-index: 2; }
+
+.s8-map-img:nth-child(3) { width: 31.51px;
+                           height: 18.55px;
+                           position: absolute;
+                           margin-top: 279px;
+                           margin-left: 496px;
+                           z-index: 3; }
 
               
 
