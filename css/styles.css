@@ -1198,12 +1198,6 @@
                display: flex;
                justify-content: space-between; }
 
-
-
-
-
-
-
 .s9-line::after { content:'';
                 width: 50px;
                 height: 3px;
@@ -1219,4 +1213,4 @@
         font-size: 16px;
         color: #686868; }
 
-body {padding-bottom: 100px; background-color: black;}   
+  /*----------------------------------------------   THE END   --------------------------------------------------*/ 
